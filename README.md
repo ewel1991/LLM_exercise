@@ -1,2 +1,2 @@
-Homework day 1- day1.pnb
-Homework day 2- day2.pnb (+scraper.py+_pychache_)
+Homework day 1- day1.ipynb
+Homework day 2- day2.ipynb (+scraper.py+_pychache_)
