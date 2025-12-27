@@ -1,0 +1,26 @@
+{
+  "F92-3-452": {
+    "qty": 16,
+    "unit": "Stk.",
+    "rows": [
+      {
+        "code": "F92-3-452",
+        "qty": 4,
+        "unit": "Stk.",
+        "description": "Wellenanker DBW 20 / Rd 20 GV (Pfeifer)"
+      },
+      {
+        "code": "F92-3-452",
+        "qty": 5,
+        "unit": "Stk.",
+        "description": "Wellenanker DBW 20 / Rd 20 GV (Pfeifer)"
+      },
+      {
+        "code": "F92-3-452",
+        "qty": 7,
+        "unit": "Stk.",
+        "description": "Wellenanker DBW 20 / Rd 20 GV (Pfeifer)"
+      }
+    ]
+  }
+}
